@@ -1,1 +1,2 @@
-Author: Laszlo Horvath \n Title: Baby massage webpage
+Author: Laszlo Horvath
+Title: Baby massage webpage
